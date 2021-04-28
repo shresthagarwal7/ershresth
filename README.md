@@ -1,109 +1,57 @@
-### Hi there 👋
+### Hi there, I'm Sumit - aka [Sleebit][website] 👋
 
-<!--
-**ershresth/ershresth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=codeit13&color=blue)
+<!-- [![Website](https://img.shields.io/website?label=codeit13.in&style=for-the-badge&url=https%3A%2F%codeit13.in)](https://codeit13.com) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeit13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/codeit13?ref_src=twsrc%5Etfw)
 
-Here are some ideas to get you started:
+## I'm a Developer and a Student!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Skip to content
-Search or jump to…
+- 🔭 I’m currently working on a [GPF Web App Project][website]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to automate my daily hefty tasks.
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ershresth 
-codeit13
-/
-codeit13
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-codeit13/README.md
-@codeit13
-codeit13 Update README.md
-Latest commit 3b50b79 on 1 Feb
- History
- 1 contributor
-57 lines (43 sloc)  4.2 KB
-  
-Hi there, I'm Sumit - aka Sleebit 👋
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+### Connect with me:
 
-Twitter Follow
+[<img align="left" alt="codeit13" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeit13 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeit13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeit13 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeit13 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-I'm a Developer and a Student!
-🔭 I’m currently working on a GPF Web App Project!
-🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other content creators
-🥅 2020 Goals: Contribute more to Open Source projects
-⚡ Fun fact: I love to automate my daily hefty tasks.
-Spotify Playing 🎧
-codeSTACKr Spotify Playing
+<br />
 
-Connect with me:
-codeit13codeit13 | YouTubecodeit13 | Twittercodeit13 | LinkedIncodeit13 | Instagram
+### Languages and Tools:
 
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-Languages and Tools:
-HTML5
+<br />
+<br />
 
-CSS3
+---
 
-Sass
+  <summary>:zap: Github Stats</summary>
 
-JavaScript
+  <img align="left" alt="codeit13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeit13&show_icons=true&hide_border=true" />
 
-React
-
-Node.js
-
-Deno
-
-SQL
-
-MySQL
-
-MongoDB
-
-Git
-
-GitHub
-
-Terminal
-
-
-
-⚡ Github Stats
-codeit13's Github Stats
-
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+[website]: https://sleebit.com
+[twitter]: https://twitter.com/codeit13
+[youtube]: https://youtube.com/codeit13
+[instagram]: https://instagram.com/astropsumit
+[linkedin]: https://linkedin.com/in/sumit02
