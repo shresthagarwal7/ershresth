@@ -1,8 +1,8 @@
 ### Hi there, I'm Shresth Agarwal - [SHAG][website] 👋
 
-![](https://komarev.com/ghpvc/?username=shag&color=blue)
+![](https://komarev.com/ghpvc/?username=ershresth&color=blue)
 <!-- [![Website](https://img.shields.io/website?label=codeit13.in&style=for-the-badge&url=https%3A%2F%codeit13.in)](https://codeit13.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeit13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/codeit13?ref_src=twsrc%5Etfw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeit13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/agarwalji?ref_src=twsrc%5Etfw)
 
 ## I'm a Developer and a Student!
 
@@ -17,11 +17,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeit13" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeit13 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeit13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeit13 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeit13 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ershresth" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ershresth | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ershresth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ershresth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ershresth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -52,6 +52,6 @@
 
 [website]: https://ershresth.github.io
 [twitter]: https://twitter.com/codeit3
-[youtube]: https://youtube.com/codei13
-[instagram]: https://instagram.com/stropsumit
-[linkedin]: https://linkedin.com/i/sumit02
+[youtube]: https://youtube.com/codei1
+[instagram]: https://instagram.com/shresth__agarwal
+[linkedin]: https://linkedin.com/i/sumit
