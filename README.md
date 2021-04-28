@@ -1,4 +1,4 @@
-### Hi there, I'm Sumit - aka [Sleebit][website] 👋
+### Hi there, I'm Shresth Agarwal - [SHAG][website] 👋
 
 ![](https://komarev.com/ghpvc/?username=codeit13&color=blue)
 <!-- [![Website](https://img.shields.io/website?label=codeit13.in&style=for-the-badge&url=https%3A%2F%codeit13.in)](https://codeit13.com) -->
@@ -50,8 +50,8 @@
 
   <img align="left" alt="codeit13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeit13&show_icons=true&hide_border=true" />
 
-[website]: https://sleebit.com
-[twitter]: https://twitter.com/codeit13
-[youtube]: https://youtube.com/codeit13
-[instagram]: https://instagram.com/astropsumit
-[linkedin]: https://linkedin.com/in/sumit02
+[website]: https://ershresth.github.io
+[twitter]: https://twitter.com/codeit3
+[youtube]: https://youtube.com/codei13
+[instagram]: https://instagram.com/stropsumit
+[linkedin]: https://linkedin.com/i/sumit02
