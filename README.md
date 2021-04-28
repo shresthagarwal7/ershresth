@@ -1,6 +1,6 @@
 ### Hi there, I'm Shresth Agarwal - [SHAG][website] 👋
 
-![](https://komarev.com/ghpvc/?username=codeit13&color=blue)
+![](https://komarev.com/ghpvc/?username=shag&color=blue)
 <!-- [![Website](https://img.shields.io/website?label=codeit13.in&style=for-the-badge&url=https%3A%2F%codeit13.in)](https://codeit13.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeit13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/codeit13?ref_src=twsrc%5Etfw)
 
@@ -48,7 +48,7 @@
 
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeit13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeit13&show_icons=true&hide_border=true" />
+  <img align="left" alt="ershresth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ershresth&show_icons=true&hide_border=true" />
 
 [website]: https://ershresth.github.io
 [twitter]: https://twitter.com/codeit3
