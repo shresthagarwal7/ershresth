@@ -1,8 +1,8 @@
 ### Hi there, I'm Shresth Agarwal - [SHAG][website] 👋
 
 ![](https://komarev.com/ghpvc/?username=ershresth&color=blue)
-<!-- [![Website](https://img.shields.io/website?label=agarwalji.in&style=for-the-badge&url=https%3A%2F%agarwalji.in)](https://ershresth.github.io) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeit13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/agarwalji?ref_src=twsrc%5Etfw)
+<!-- [![Website](https://img.shields.io/website?label=AgarwalJiii.in&style=for-the-badge&url=https%3A%2F%AgarwalJiii.in)](https://ershresth.github.io) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/AgarwalJiii?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AgarwalJiii?ref_src=twsrc%5Etfw)
 
 ## I'm a Developer and a Student!
 
@@ -51,7 +51,7 @@
   <img align="left" alt="ershresth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ershresth&show_icons=true&hide_border=true" />
 
 [website]: https://ershresth.github.io
-[twitter]: https://twitter.com/codeit3
+[twitter]: https://twitter.com/AgarwalJiii
 [youtube]: https://youtube.com/codei1
 [instagram]: https://instagram.com/shresth__agarwal
 [linkedin]: https://linkedin.com/i/sumit
